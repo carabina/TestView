@@ -1,0 +1,16 @@
+PODS:
+  - TestView (0.1.0)
+
+DEPENDENCIES:
+  - TestView (from `../`)
+
+EXTERNAL SOURCES:
+  TestView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestView: 7d7fbfe036891bb894cf1d4f727c8312611e1107
+
+PODFILE CHECKSUM: bc607ae312d092ee750f63e31ce2b4617e896b66
+
+COCOAPODS: 1.6.0.beta.1

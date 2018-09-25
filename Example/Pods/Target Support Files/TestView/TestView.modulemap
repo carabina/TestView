@@ -1,0 +1,6 @@
+framework module TestView {
+  umbrella header "TestView-umbrella.h"
+
+  export *
+  module * { export * }
+}
